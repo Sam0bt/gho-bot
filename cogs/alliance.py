@@ -202,6 +202,13 @@ class Alliance(commands.Cog):
                 custom_id="alliance_history",
                 row=2
             ))
+            view.add_item(discord.ui.Button(
+                label="Other Features",
+                emoji="🔧",
+                style=discord.ButtonStyle.primary,
+                custom_id="other_features",
+                row=3
+            ))
             if admin_count == 0:
                 await interaction.edit_original_response(embed=embed, view=view)
             else:
