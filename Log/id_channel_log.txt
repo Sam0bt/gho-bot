@@ -1,0 +1,22 @@
+
+==================================================
+Timestamp: 2025-05-22 16:21:36
+Action: CREATE_CHANNEL
+User: 12fjgj4555vmvmfddkd0000sd (ID: 445897800434057216)
+Server: GHO / 1985 (ID: 1370228901711712276)
+Details:
+  alliance_id: 1
+  channel_id: 1370228901711712278
+  channel_name: gho-chat
+==================================================
+
+==================================================
+Timestamp: 2025-05-22 19:18:13
+Action: CREATE_CHANNEL
+User: 12fjgj4555vmvmfddkd0000sd (ID: 445897800434057216)
+Server: GHO / 1985 (ID: 1370228901711712276)
+Details:
+  alliance_id: 1
+  channel_id: 1375160723499389123
+  channel_name: members
+==================================================

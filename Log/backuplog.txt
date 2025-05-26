@@ -1,0 +1,76 @@
+[2025-05-22 16:16:11] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-22 16:16:11] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-22 19:10:08] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-22 19:10:08] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-22 20:44:30] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-22 20:44:30] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-23 20:49:11] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-23 20:49:11] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-24 09:41:41] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-24 09:41:41] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-24 09:43:00] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-24 09:43:00] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-25 13:38:37] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-25 13:38:37] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-25 14:40:51] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-25 14:40:51] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-25 18:45:30] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-25 18:45:30] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 02:22:35] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 02:22:35] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:18:50] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:18:50] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:24:19] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:24:19] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:35:18] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:35:18] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:36:43] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:36:43] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:39:21] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:39:22] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:41:13] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 06:41:13] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 09:49:19] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 09:49:19] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 09:51:34] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 09:51:34] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 09:58:29] Type: Startup Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-05-26 09:58:29] Type: Automatic Backup | Admin ID: 445897800434057216 | Status: ❌ Failed | Error: Backup creation failed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
