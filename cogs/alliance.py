@@ -161,8 +161,6 @@ class Alliance(commands.Cog):
                     "└ Manage gift codes and rewards\n\n"
                     "📜 **Alliance History**\n"
                     "└ View alliance changes and history\n\n"
-                    "🆘 **Support Operations**\n"
-                    "└ Access support features\n"
                     "━━━━━━━━━━━━━━━━━━━━━━"
                 ),
                 color=discord.Color.blue()
@@ -202,13 +200,6 @@ class Alliance(commands.Cog):
                 emoji="📜",
                 style=discord.ButtonStyle.primary,
                 custom_id="alliance_history",
-                row=2
-            ))
-            view.add_item(discord.ui.Button(
-                label="Support Operations",
-                emoji="🆘",
-                style=discord.ButtonStyle.primary,
-                custom_id="support_operations",
                 row=2
             ))
             view.add_item(discord.ui.Button(
@@ -1194,8 +1185,6 @@ class Alliance(commands.Cog):
                     "└ Manage gift codes and rewards\n\n"
                     "📜 **Alliance History**\n"
                     "└ View alliance changes and history\n\n"
-                    "🆘 **Support Operations**\n"
-                    "└ Access support features\n"
                     "━━━━━━━━━━━━━━━━━━━━━━"
                 ),
                 color=discord.Color.blue()
@@ -1235,13 +1224,6 @@ class Alliance(commands.Cog):
                 emoji="📜",
                 style=discord.ButtonStyle.primary,
                 custom_id="alliance_history",
-                row=2
-            ))
-            view.add_item(discord.ui.Button(
-                label="Support Operations",
-                emoji="🆘",
-                style=discord.ButtonStyle.primary,
-                custom_id="support_operations",
                 row=2
             ))
             view.add_item(discord.ui.Button(
