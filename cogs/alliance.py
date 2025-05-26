@@ -1316,8 +1316,6 @@ class Alliance(commands.Cog):
                 custom_id="alliance_history",
                 row=2
             ))
-            
-            ))
             view.add_item(discord.ui.Button(
                 label="Other Features",
                 emoji="🔧",
