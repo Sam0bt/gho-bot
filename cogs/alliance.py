@@ -1279,8 +1279,6 @@ class Alliance(commands.Cog):
                     "└ Manage gift codes and rewards\n\n"
                     "📜 **Alliance History**\n"
                     "└ View alliance changes and history\n\n"
-                    "🆘 **Support Operations**\n"
-                    "└ Access support features\n\n"
                     "🔧 **Other Features**\n"
                     "└ Access other features\n"
                     "━━━━━━━━━━━━━━━━━━━━━━"
@@ -1325,13 +1323,6 @@ class Alliance(commands.Cog):
                 row=2
             ))
             view.add_item(discord.ui.Button(
-                label="Support Operations",
-                emoji="🆘",
-                style=discord.ButtonStyle.primary,
-                custom_id="support_operations",
-                row=2
-            ))
-            view.add_item(discord.ui.Button(
                 label="Other Features",
                 emoji="🔧",
                 style=discord.ButtonStyle.primary,
@@ -1348,7 +1339,7 @@ class Alliance(commands.Cog):
             pass
 
     @discord.ui.button(label="Bot Operations", emoji="🤖", style=discord.ButtonStyle.primary, custom_id="bot_operations", row=1)
-    async def bot_operations_button(self, interaction: discord.Interaction, button: discord.ui.Button):
+    async def bot_operations_button(self, interaction: discord.Interaction, button: discord.uon):
         try:
             bot_ops_cog = interaction.client.get_cog("BotOperations")
             if bot_ops_cog:
