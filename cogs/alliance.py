@@ -1339,7 +1339,7 @@ class Alliance(commands.Cog):
             pass
 
     @discord.ui.button(label="Bot Operations", emoji="🤖", style=discord.ButtonStyle.primary, custom_id="bot_operations", row=1)
-    async def bot_operations_button(self, interaction: discord.Interaction, button: discord.uon):
+    async def bot_operations_button(self, interaction: discord.Interaction, button: discord.ui.Button):
         try:
             bot_ops_cog = interaction.client.get_cog("BotOperations")
             if bot_ops_cog:
