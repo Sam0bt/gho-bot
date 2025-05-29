@@ -47,16 +47,15 @@ class GNCommands(commands.Cog):
                     status_embed.add_field(
                         name="📌 Support Information",
                         value=(
-                            "**Developer:** <@918825495456514088>\n"
-                            "**Discord Server:** [Click to Join](https://discord.gg/whiteoutall)\n"
-                            "**Support:** [Buy me a coffee ☕](https://www.buymeacoffee.com/reloisback)\n"
+                            "**Developer:** KÛRDØ\n"
+                            "**Contact DC ID:** kurd0dc\n"
                             "━━━━━━━━━━━━━━━━━━━━━━"
                         ),
                         inline=False
                     )
 
                     status_embed.set_thumbnail(url="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png")
-                    status_embed.set_footer(text="Thank you for using our bot! Feel free to contact for support.")
+                    status_embed.set_footer(text="This bot was coded for GHO alliance.")
 
                     await admin_user.send(embed=status_embed)
 
